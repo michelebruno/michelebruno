@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Communication Design MSc student at Politecnico di Milano.
+
+I enjoy coding since I'm too lazy to do stuff on my own. 
+
 <!--
 **michelebruno/michelebruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
