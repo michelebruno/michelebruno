@@ -2,8 +2,6 @@
 
 I'm a Communication Design student at Politecnico di Milano.
 
-I enjoy coding since I'm too lazy to do tasks on my own. 
-
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/). 
 <!--
 **michelebruno/michelebruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
