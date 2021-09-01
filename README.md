@@ -2,10 +2,13 @@
 
 I'm a Communication Design student at Politecnico di Milano.
 
-These are some of my works:
-- [Disruptive](https://disruptive.meetingrimini.org/): The challenge of rebuilding, UX and coding, 2021
-- [Interconnectedata](https://interconnectedata.it/), coding, 2021
-- [Questioni fotografiche](https://questionifotografiche.it), coding, 2021
+These are my latest works:
+- [Disruptive](https://disruptive.meetingrimini.org/): The challenge of rebuilding
+- [Interconnectedata](https://interconnectedata.it/)
+- [Moodboard](https://moodboard-ffmv.herokuapp.com/)
+- [Questioni fotografiche](https://questionifotografiche.it)
+- [Feelo](https://feelo.mbruno.it/)
+- [Samuele Sanguineti](samuelesanguineti.com)
 
 
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/). 
