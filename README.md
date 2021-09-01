@@ -3,12 +3,12 @@
 I'm a Communication Design student at Politecnico di Milano.
 
 These are my latest works:
-- [Disruptive](https://disruptive.meetingrimini.org/): The challenge of rebuilding
-- [Interconnectedata](https://interconnectedata.it/)
-- [Moodboard](https://moodboard-ffmv.herokuapp.com/)
-- [Questioni fotografiche](https://questionifotografiche.it)
-- [Feelo](https://feelo.mbruno.it/)
-- [Samuele Sanguineti](samuelesanguineti.com)
+- [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
+- [Interconnectedata](https://interconnectedata.it/) - A journey through data collected by smart objects
+- [Moodboard](https://moodboard-ffmv.herokuapp.com/) - A digital common space to share your feeling with others.
+- [Questioni fotografiche](https://questionifotografiche.it) - The course results website of Digital Image Culture
+- [Feelo](https://feelo.mbruno.it/) - The showcase site for an app to fight eating disorders.
+- [Samuele Sanguineti](samuelesanguineti.com) - A fashion designer portfolio website.
 
 
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/). 
