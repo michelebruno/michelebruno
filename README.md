@@ -2,6 +2,12 @@
 
 I'm a Communication Design student at Politecnico di Milano.
 
+These are some of my works:
+- [Disruptive](https://disruptive.meetingrimini.org/): The challenge of rebuilding, UX and coding, 2021
+- [Interconnectedata](https://interconnectedata.it/), coding, 2021
+- [Questioni fotografiche](https://questionifotografiche.it), coding, 2021
+
+
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/). 
 <!--
 **michelebruno/michelebruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
