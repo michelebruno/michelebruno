@@ -3,6 +3,7 @@
 I'm a Communication Design student at Politecnico di Milano.
 
 These are my latest works:
+- [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
 - [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
 - [Interconnectedata](https://interconnectedata.it/) - A journey through data collected by smart objects
 - [Moodboard](https://moodboard-ffmv.herokuapp.com/) - A digital common space to share your feeling with others.
