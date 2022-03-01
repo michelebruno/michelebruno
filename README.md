@@ -12,7 +12,7 @@ These are my latest works:
 - [Samuele Sanguineti](samuelesanguineti.com) - A fashion designer portfolio website.
 
 
-Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/). 
+Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/) or check out my [portfolio](https://michelebruno.github.io/). 
 <!--
 **michelebruno/michelebruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
