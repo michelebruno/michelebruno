@@ -10,7 +10,6 @@ These are my latest works:
 - [Moodboard](https://moodboard-ffmv.herokuapp.com/) - A digital common space to share your feeling with others.
 - [Questioni fotografiche](https://questionifotografiche.it) - The course results website of Digital Image Culture
 - [Feelo](https://feelo.mbruno.it/) - The showcase site for an app to fight eating disorders.
-- [Samuele Sanguineti](samuelesanguineti.com) - A fashion designer portfolio website.
 
 
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/) or check out my [portfolio](https://michelebruno.github.io/). 
