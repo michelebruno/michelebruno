@@ -3,6 +3,7 @@
 I'm a Communication Design student at Politecnico di Milano.
 
 These are my latest works:
+- [The Look of Love](https://thelookoflove.it/) - An interactive experience to conquer a cat with a glance
 - [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
 - [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
 - [Interconnectedata](https://interconnectedata.it/) - A journey through data collected by smart objects
