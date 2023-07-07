@@ -6,6 +6,7 @@ These are my latest works:
 - [The Look of Love](https://thelookoflove.it/) - An interactive experience to conquer a cat with a glance
 - [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
 - [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
+- [PaoloVI](https://smpaolovi.org) A Worpress theme for a secondary school in Rho
 - [Interconnectedata](https://interconnectedata.it/) - A journey through data collected by smart objects
 - [Moodboard](https://moodboard-ffmv.herokuapp.com/) - A digital common space to share your feeling with others.
 - [Questioni fotografiche](https://questionifotografiche.it) - The course results website of Digital Image Culture
