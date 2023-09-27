@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Communication Design student at Politecnico di Milano.
+I'm an Experience Designer and Creative devolper, based somewhere in Italy and graduated @ Politecnico di Milano.
 
-These are my latest works:
+Check out my [typescript library](https://github.com/michelebruno/silenzio) or latest works:
 - [The Look of Love](https://thelookoflove.it/) - An interactive experience to conquer a cat with a glance
 - [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
 - [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
@@ -13,7 +13,7 @@ These are my latest works:
 - [Feelo](https://feelo.mbruno.it/) - The showcase site for an app to fight eating disorders.
 
 
-Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/) or check out my [portfolio](https://michelebruno.github.io/). 
+Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/) or check out my [portfolio](https://michelebruno.co/). 
 <!--
 **michelebruno/michelebruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
