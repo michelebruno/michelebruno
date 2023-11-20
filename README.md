@@ -7,10 +7,7 @@ Check out my [typescript library](https://github.com/michelebruno/silenzio) or l
 - [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
 - [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
 - [PaoloVI](https://www.smpaolovi.org) A Worpress theme for a secondary school in Rho
-- [Interconnectedata](https://interconnected-ecru.vercel.app) - A journey through data collected by smart objects
-- [Moodboard](https://moodboard-ffmv.herokuapp.com/) - A digital common space to share your feeling with others.
-- [Questioni fotografiche](https://questionifotografiche.it) - The course results website of Digital Image Culture
-- [Feelo](https://feelo.mbruno.it/) - The showcase site for an app to fight eating disorders.
+- [Interconnectedata](https://interconnected-ecru.vercel.app) - A journey through data collected by smart objects 
 
 
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/) or check out my [portfolio](https://michelebruno.co/). 
