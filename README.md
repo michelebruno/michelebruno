@@ -3,6 +3,7 @@
 I'm an Experience Designer and Creative devolper, based somewhere in Italy and graduated @ Politecnico di Milano.
 
 Check out my [typescript library](https://github.com/michelebruno/silenzio) or latest works:
+- [Smilee](https://app.smilee.finance/) – A web3 protocol for trading options
 - [The Look of Love](https://www.thelookoflove.it/) - An interactive experience to conquer a cat with a glance
 - [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
 - [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
