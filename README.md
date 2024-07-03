@@ -7,9 +7,6 @@ Check out my [typescript library](https://github.com/michelebruno/silenzio) or l
 - [Brand Society](https://www.brandsociety.com/) – A strategic design studio in Melbourne, AU.
 - [The Look of Love](https://www.thelookoflove.it/) - An interactive experience to conquer a cat with a glance
 - [Opinion Library](https://opinionlibrary.com/) - A collection of mask-related comments on change.org petitions
-- [Disruptive](https://disruptive.meetingrimini.org/) - A digital experience discovering Sergio Marchionne
-- [PaoloVI](https://www.smpaolovi.org) A Worpress theme for a secondary school in Rho
-- [Interconnectedata](https://interconnected-ecru.vercel.app) - A journey through data collected by smart objects 
 
 
 Follow me on [Linkedin](https://www.linkedin.com/in/brunomichele/) or check out my [portfolio](https://michelebruno.co/). 
