@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm an Experience Designer and Creative devolper, based somewhere in Italy and graduated @ Politecnico di Milano.
+I'm an Web3 Frontend Engineer and Creative devolper, based somewhere in Italy and graduated @ Politecnico di Milano in Communication Design.
 
 Check out my [typescript library](https://github.com/michelebruno/silenzio) or latest works:
+- [BeraHub](https://hub.berachain.com/) – all-in-one Proof of Liquidity, decentralized exchange and DAO
 - [Smilee](https://app.smilee.finance/) – A web3 protocol for trading options
 - [Brand Society](https://www.brandsociety.com/) – A strategic design studio in Melbourne, AU.
 - [The Look of Love](https://www.thelookoflove.it/) - An interactive experience to conquer a cat with a glance
